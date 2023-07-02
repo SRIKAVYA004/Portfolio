@@ -1,0 +1,166 @@
+.image{
+    padding-left:3px;
+}
+
+.bg{
+    background-color:darkslateblue;
+}
+
+.container1{
+    display:flex;
+    justify-content: first baseline;
+    gap:800px;
+}
+
+.container2{
+
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    gap:20px;
+    background-color: aqua;
+    width:100%;
+    height:100vh;
+    background-size:cover;
+
+}
+
+.h3{
+    
+    display:flex;
+    color:rgb(27, 7, 7);
+    font-family:lucida;
+    font-size:30px;
+
+}
+.img{
+    padding-top: 50px;
+}
+.h4{
+    display:flex;
+    color:rgb(93, 22, 170);
+    font-family:lucida;
+    text-decoration:underline;
+}
+.container3{
+    padding-top:50px;
+    display:flex;
+    flex-direction: column;
+    align-items: first baseline;
+    background-color:rgb(96, 170, 240);
+
+}
+.p{
+    color:rgb(177, 7, 41);
+    font-size:20px;
+    font-family:lucida;
+}
+.h2{
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom:10px ;
+    padding-top: 10px;
+}
+.green{
+    color:rgb(25, 169, 25);
+    height:24px;
+    width:80%;
+}
+.red{
+    color:red;
+    height:24px;
+    width:75%;
+}
+.blue{
+    color:rgb(0, 179, 255);
+    height:24px;
+    width:85%;
+}
+.container4{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width:100%;
+    height:100vh;
+    background-size:cover;
+}
+.skill{
+    text-align:right;
+    color:white;
+    padding-right:5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.Clang{
+    width:85%;
+    background-color:rgb(36, 245, 36);
+}
+.python{
+    width:90%;
+    background-color:blue;
+}
+.java{
+width:70%;
+background-color: blueviolet;
+}
+.Html{
+ width:82%;
+ background-color: orangered;
+}
+.css{
+width:73%;
+background-color: rgb(255, 0, 136);
+}
+.desp{
+    font-size:20px;
+    font-family: lucida;
+    color:rgb(177, 34, 63)
+}
+.container4{
+    display:flex;
+    justify-content:space-between;
+
+}
+.pro{
+    padding-top:20px;
+}
+.container5{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: burlywood;
+    gap:20px;
+}
+.container6{
+    background-color:rgb(0, 208, 255);
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.img1{
+    display:flex;
+    padding-top:15px;
+    padding-bottom: 15px;
+    }
+    .foot{
+        text-decoration: double;
+        text-align: center;
+        font-size:40px;
+    }
+    .foot1{
+        text-align:center;
+    }
+.container7{
+    background-color: cadetblue;
+}
+.nav-link{
+    margin-right:10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-family: lucida;
+
+
+
+}
